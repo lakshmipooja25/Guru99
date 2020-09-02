@@ -1,0 +1,6 @@
+browser = chrome
+url=http://demo.guru99.com/V4/
+username=mngr281603
+password=mAbegym
+
+projectdir=D:\\Automation_Resources\\My Files\\Guru99
